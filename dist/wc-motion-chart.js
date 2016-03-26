@@ -1,5 +1,5 @@
 /*
- * Author: LipsonChan <Lipson@loveskitehcn.com>
+ * Author: LipsonChan <LipsonChan89@gmail.com>
  * License: MIT
  */
 
