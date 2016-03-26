@@ -1,8 +1,7 @@
-My wechat motion chart, for study or work.
+My wechat motion chart
+======================
 
 It do as a jQuery plugin, code with jQuery and canvas
-
-微信运动折线图
 
 License: MIT
 
@@ -21,4 +20,4 @@ You can find some info below:
 
 Thanks:
 
-    Rostyslav Bryzgunov(http://kottenator.github.io/jquery-circle-progress/)
+    [Rostyslav Bryzgunov](http://kottenator.github.io/jquery-circle-progress/)
