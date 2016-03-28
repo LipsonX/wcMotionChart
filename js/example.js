@@ -6,7 +6,7 @@ avatarImg.src = "image/avatar.jpg";
 /* init chart */
 var today = new Date();
 $('#wcMotion').wcChart({
-	fill: {gradient: [["#21B881",.1], ["#0E8FA2",.9]], gradientAngle: Math.PI * -45/180},
+	fill: {gradient: [["#21B881",.1], ["#0E8FA2",.9]], gradientAngle: Math.PI * -45/180}
 });
 
 /* do something, may be you need get data with ajax */
@@ -23,6 +23,7 @@ window.setTimeout(function() {
 		day: today,
 		data: [14759, 0, 2000, 8000, 3252, 5645, 6000, 34, 5454, 2],
 		rankRef : {height: 125, avatar: avatarImg, title: "夺得03月13日排行榜冠军", url: "http://www.baidu.com"},
+		fill: {gradient: [["#21B881",.1], ["#0E8FA2",.9]], gradientAngle: Math.PI * -45/180}
 	});
 }, 1000);
 

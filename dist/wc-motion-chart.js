@@ -1,6 +1,7 @@
 /*
  * Author: LipsonChan <LipsonChan89@gmail.com>
  * License: MIT
+ * https://github.com/Grass-CLP/wcMotionChart
  */
 
 (function ($) {
